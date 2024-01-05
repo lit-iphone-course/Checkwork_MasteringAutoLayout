@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  AutoLayout
-//
-//  Created by 伊藤明孝 on 2023/09/18.
-//
+
 
 import UIKit
 
